@@ -1,4 +1,4 @@
-# Souce Code Description for Paper “Privacy-friendly Decentralized data Aggregation for Crowdsensing Networks”
+# Source Code Description for Paper “Privacy-friendly Decentralized data Aggregation for Crowdsensing Networks”
 
 This is a brief description for the source code of the paper “Privacy-friendly Decentralized data Aggregation for Crowdsensing Networks” which is included in IEEE globecom 2020.
 
