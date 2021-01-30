@@ -17,6 +17,7 @@ which seperatively corresponds to:
 - depicting **privacy-accuracy trade-off** for the proposed algorithm and **calculating variance**,
 - plotting  **histograms of empirical convergence value**, and
 - showing  **accuracy, the number of iterations to reach a convergence  as a function of network size**,
+- drawing **convergence process of each terminal**.
 
 with other files being the implementation of the proposed algorithm, the original  classical algorithm and some basic functions.
 
